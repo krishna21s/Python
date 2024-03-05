@@ -1,2 +1,2 @@
 # Python
-in this repository, the projects and other python related ones are shown in this repository 
+in this repository, the python projects and other related ones are shown.
